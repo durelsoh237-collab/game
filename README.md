@@ -15,4 +15,4 @@ cliccando sulla stessa, colorando opportunamente tutte le celle
 nel range. OK
 8-Implementazione del meccanismo del danno da contrattacco . OK
 9-Lista dello storico delle mosse eseguite. OK (Presente nell'output)
-10- AI che utilizza algoritmi euristici ottimizzati di movimento (diverso da A*) OK
+10- AI che utilizza algoritmi euristici ottimizzati di movimento (diverso da A*) OK 
